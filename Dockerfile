@@ -4,3 +4,4 @@ WORKDIR /app
 # Install Make 
 RUN apk add make
 RUN apk add git
+RUN apk add openssh
